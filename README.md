@@ -1,4 +1,4 @@
-  Calculadora JavaScript
+Calculadora JavaScript
 Projeto desenvolvido para praticar manipulação de DOM, eventos e lógica matemática utilizando JavaScript puro.
 
 🚀 Funcionalidades
