@@ -6,6 +6,7 @@ function Calculadora () {
         this.capturaCliques();
         this.capturaEnter();
         this.somenteNumerosDisplay();
+        this.backSpace();
     };
     
     this.capturaEnter = () => {
@@ -13,6 +14,13 @@ function Calculadora () {
             if(e.key !== 'Enter') return;
             this.realizaConta();
         });
+    };
+
+    this.backSpace = () => {
+        document.addEventListener('keyup', e =>{
+            if(e.key !== 'Backspace') return;
+            this.del();
+        })
     };
 
     this.capturaCliques = () => {
