@@ -1,4 +1,5 @@
 Calculadora JavaScript
+
 Projeto desenvolvido para praticar manipulação de DOM, eventos e lógica matemática utilizando JavaScript puro.
 
 🚀 Funcionalidades
@@ -20,7 +21,9 @@ O layout se adapta para desktop e dispositivos móveis.
 Projeto criado com foco em aprimorar conhecimentos em:
 
 Manipulação de DOM
+
 Programação Orientada a Objetos
+
 Estruturação de código
 
 ---
