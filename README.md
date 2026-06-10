@@ -28,4 +28,4 @@ Estruturação de código
 
 ---
 https://projeto-calculadora-rosy.vercel.app/
-Desenvolvido por Adriano Silva 🚀
+Desenvolvido por Adriano Silva 
